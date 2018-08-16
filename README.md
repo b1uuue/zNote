@@ -1,8 +1,3 @@
----
-layout: home
-title: zNote
----
-
 # zNote
 My notes in Dynamsoft
 
