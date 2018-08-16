@@ -1,5 +1,12 @@
+---
+layout: home
+title: zNote
+---
+
 # zNote
 My notes in Dynamsoft
+
+
 
 ## CONTENTS
 * 1st week
@@ -35,4 +42,5 @@ My notes in Dynamsoft
     - [Note0814](Note0814.md)
     - [Note0815](Note0815.md)
     - [Note0816](Note0816.md)
- 
+
+
