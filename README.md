@@ -39,5 +39,14 @@ My notes in Dynamsoft
     - [Note0816](Note0816.md)
     - [Note0817](Note0817.md)
     - [Note0818](Note0818.md)
+    - [Note0819](Note0819.md)
+* 6th week
+    - [Note0820](Note0820.md)
+    - [Note0821](Note0821.md)
+    - [Note0822](Note0822.md)
+    - [Note0823](Note0823.md)
+    - [Note0824](Note0824.md)
+    - [Note0825](Note0825.md)
+    - [Note0826](Note0826.md)
 
 
