@@ -38,5 +38,6 @@ My notes in Dynamsoft
     - [Note0815](Note0815.md)
     - [Note0816](Note0816.md)
     - [Note0817](Note0817.md)
+    - [Note0818](Note0818.md)
 
 
