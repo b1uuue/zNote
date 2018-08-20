@@ -4,5 +4,6 @@ url: "https://b1uuue.github.io/zNote/"
 
 github_username:  b1uuue
 markdown: kramdown
+theme: minima
 plugins:
   - jemoji
