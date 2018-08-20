@@ -6,4 +6,4 @@ github_username:  b1uuue
 markdown: kramdown
 plugins:
   - jemoji
-theme: jekyll-theme-minimal
+theme: jekyll-theme-slate
