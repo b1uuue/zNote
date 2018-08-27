@@ -47,6 +47,10 @@ My notes in Dynamsoft
     - [Note0823](Note0823.md)
     - [Note0824](Note0824.md)
     - [Note0825](Note0825.md)
-    - [Note0826](Note0826.md)
-
+* 7th week
+    - [Note0827](Note0827.md)
+    - [Note0828](Note0828.md)
+    - [Note0829](Note0829.md)
+    - [Note0830](Note0830.md)
+    - [Note0831](Note0831.md)
 
