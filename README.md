@@ -54,4 +54,6 @@ My notes in Dynamsoft
     - [Note0829](Note0829.md)
     - [Note0830](Note0830.md)
     - [Note0831](Note0831.md)
+    - [Note0901](Note0901.md)
+    - [Note0902](Note0902.md)
 
