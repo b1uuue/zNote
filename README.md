@@ -63,8 +63,6 @@ My notes in Dynamsoft
     - [Note0905](Note0905.md)
     - [Note0906](Note0906.md)
     - [Note0907](Note0907.md)
-    - [Note0908](Note0908.md)
-    - [Note0909](Note0909.md)
 * 9th week
     - [Note0910](Note0910.md)
     - [Note0911](Note0911.md)
