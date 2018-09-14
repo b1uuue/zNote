@@ -70,4 +70,5 @@ My notes in Dynamsoft
     - [Note0913](Note0913.md)
     - [Note0914](Note0914.md)
     - [Note0915](Note0915.md)
+    - [Note0916](Note0916.md)
 
