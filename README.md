@@ -75,5 +75,11 @@ My notes in Dynamsoft
     - [Note0919](Note0919.md)
     - [Note0920](Note0920.md)
     - [Note0921](Note0921.md)
-    - [Note0922](Note0922.md)
+    - [Note0923](Note0923.md)
+* 11th week
+    - [Note0924](Note0924.md)
+    - [Note0925](Note0925.md)
+    - [Note0926](Note0926.md)
+    - [Note0927](Note0927.md)
+    - [Note0928](Note0928.md)
 
