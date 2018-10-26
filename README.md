@@ -90,4 +90,18 @@ My notes in Dynamsoft
     - [Note1008](Note1008.md)
     - [Note1009](Note1009.md)
     - [Note1010](Note1010.md)
-
+    - [Note1011](Note1011.md)
+    - [Note1012](Note1012.md)
+* 14th week
+    - [Note1015](Note1015.md)
+    - [Note1016](Note1016.md)
+    - [Note1017](Note1017.md)
+    - [Note1018](Note1018.md)
+    - [Note1019](Note1019.md)
+    - [Note1021](Note1021.md)
+* 15th week
+    - [Note1022](Note1022.md)
+    - [Note1023](Note1023.md)
+    - [Note1024](Note1024.md)
+    - [Note1025](Note1025.md)
+    - [Note1026](Note1026.md)
