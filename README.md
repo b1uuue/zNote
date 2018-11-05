@@ -110,8 +110,6 @@ My notes in Dynamsoft
     - [Note1030](Note1030.md)
     - [Note1101](Note1101.md)
     - [Note1102](Note1102.md)
-    - [Note1103](Note1103.md)
-    - [Note1104](Note1104.md)
 * 17th week
     - [Note1105](Note1105.md)
     - [Note1106](Note1106.md)
@@ -122,4 +120,4 @@ My notes in Dynamsoft
     - [Note1111](Note1111.md)
 * 18th week
     - [Note1112](Note1112.md)
-    - 
+    - [Note1113](Note1113.md)
